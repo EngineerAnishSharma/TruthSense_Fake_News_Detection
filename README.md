@@ -17,4 +17,3 @@
 - **Frontend**: NextJS (Data visualization)  
 - **Database**: MongoDB  
 
-## 📂 Project Structure
